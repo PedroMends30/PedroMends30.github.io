@@ -134,6 +134,10 @@ body {
   max-width: 15em;
   overflow: hidden;
 }
+@media screen and (max-width:768px){ 
+  .calculator{
+    margin: 0px ,10px,0px,10px;
+ }
 
 .display {
   height: 100px;
